@@ -23,7 +23,7 @@ Somos un estudio de desarrollo de software fundado por **Josue Vilchis** y **Jua
 En **Re:Base**, creemos que el buen software comienza con una arquitectura sólida. No solo escribimos código; redefinimos cimientos. Nuestro enfoque combina la precisión de la ingeniería de software con soluciones prácticas para problemas del mundo real (y digital).
 
 ```bash
-user@rebase:~$ cat mission.txt
+user@rebase:> cat mission.txt
 > "Iterar sobre lo existente, construir lo nuevo."
 > Combinamos herramientas de desarrollo (DevTools) con 
 > soluciones de gestión de propiedades (PropTech).
@@ -73,24 +73,21 @@ Nuestro nombre proviene del comando `git rebase`. Creemos en mantener una histor
 
 <h3>Our Team</h3>
 
-<table style="border: none" cellspacing="0" cellpadding="0">
-<tr style="border: none">
-<td align="center" style="border: none">
-<a href=https://github.com/TheOneAndOnlyJohnny">
-<img src="https://github.com/TheOneAndOnlyJohnny.png" width="100px;" alt="" style="border-radius: 50%;"/><br />
-<sub><b>Johnny</b></sub>
-</a>
-</td>
-<td align="center" style="border: none">
-<a href="https://github.com/jossvo">
-<img src="https://github.com/jossvo.png" width="100px;" alt="" style="border-radius: 50%;"/><br />
-<sub><b>Josue</b></sub>
-</a>
-</td>
-</tr>
-</table>
+<div style="display:inline-flex;gap:24px;justify-content:center;align-items:flex-start;flex-wrap:wrap;margin: 50px 0">
+  <div style="width:120px;text-align:center;">
+    <a href="https://github.com/TheOneAndOnlyJohnny" style="text-decoration:none;color:inherit;">
+      <img src="https://github.com/TheOneAndOnlyJohnny.png" alt="Johnny" style="width:100px;height:100px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 8px;" />
+      <div style="font-weight:600">Johnny</div>
+    </a>
+  </div>
 
-<br />
+  <div style="width:120px;text-align:center;">
+    <a href="https://github.com/jossvo" style="text-decoration:none;color:inherit;">
+      <img src="https://github.com/jossvo.png" alt="Josue" style="width:100px;height:100px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 8px;" />
+      <div style="font-weight:600">Josue</div>
+    </a>
+  </div>
+</div>
 <p>
 📫 Contáctanos: <a href="mailto:hello@rebase.mx">hello@rebase.mx</a>
 </p>
