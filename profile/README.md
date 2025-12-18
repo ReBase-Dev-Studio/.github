@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1><code>Re : > Base</code></h1>
+  <h1><code>Re: Base</code></h1>
 
   <p>
     <strong>Development Studio & Product Lab</strong>
@@ -38,8 +38,8 @@ Actualmente estamos construyendo dos pilares principales:
 
 | Proyecto | Tipo | Estado | Descripción                                                                                                                                                                         |
 | --- | --- | --- |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **🔴 Mimicry** | `DevTool` `BaaS` | 🚧 Alpha | **Backend-as-a-Service Efímero.** Prototipa interfaces sin esperar al backend. APIs instantáneas, mocks inteligentes y respuestas JSON configurables en segundos.                   |
-| **🟢 Kiji** | `PropTech` `SaaS` | 🚧 Alpha | **Gestión Integral de Propiedades.** Una suite completa para la administración de rentas, control de incidencias, paquetería, accesos y más. El sistema operativo para tu edificio. |
+| **Mimicry** | `DevTool` `BaaS` | 🚧 Alpha | **Backend-as-a-Service Efímero.** Prototipa interfaces sin esperar al backend. APIs instantáneas, mocks inteligentes y respuestas JSON configurables en segundos.                   |
+| **Kiji** | `PropTech` `SaaS` | 🚧 Alpha | **Gestión Integral de Propiedades.** Una suite completa para la administración de rentas, control de incidencias, paquetería, accesos y más. El sistema operativo para tu edificio. |
 
 ---
 
@@ -49,10 +49,12 @@ Utilizamos herramientas modernas para construir software escalable y mantenible.
 
 <p align="left">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="NodeJS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="Postgres" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Svelte-20232A?style=for-the-badge&logo=svelte&logoColor=61DAFB" alt="Svelte" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+<img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ---
@@ -71,18 +73,18 @@ Nuestro nombre proviene del comando `git rebase`. Creemos en mantener una histor
 
 <h3>Our Team</h3>
 
-<table>
-<tr>
-<td align="center">
-<a href="https://www.google.com/search?q=https://github.com/TheOneAndOnlyJohnny">
-<img src="https://www.google.com/search?q=https://github.com/TheOneAndOnlyJohnny.png" width="100px;" alt="" style="border-radius: 50%;"/><br />
-<sub><b>Juan Guzman</b></sub>
+<table style="border: none">
+<tr style="border: none">
+<td align="center" style="border: none">
+<a href=https://github.com/TheOneAndOnlyJohnny">
+<img src="https://github.com/TheOneAndOnlyJohnny.png" width="100px;" alt="" style="border-radius: 50%;"/><br />
+<sub><b>Johnny</b></sub>
 </a>
 </td>
-<td align="center">
-<a href="https://www.google.com/search?q=https://github.com/jossvo">
-<img src="https://www.google.com/search?q=https://github.com/jossvo.png" width="100px;" alt="" style="border-radius: 50%;"/><br />
-<sub><b>Josue Vilchis</b></sub>
+<td align="center" style="border: none">
+<a href="https://github.com/jossvo">
+<img src="https://github.com/jossvo.png" width="100px;" alt="" style="border-radius: 50%;"/><br />
+<sub><b>Josue</b></sub>
 </a>
 </td>
 </tr>
@@ -94,7 +96,7 @@ Nuestro nombre proviene del comando `git rebase`. Creemos en mantener una histor
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DRe-Base-Org%26color%3De06c75%26style%3Dflat-square%26label%3DVIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Re-Base-Org&color=e06c75&style=flat-square&label=VIEWS" alt="Profile Views" />
 </p>
 
 </div>
