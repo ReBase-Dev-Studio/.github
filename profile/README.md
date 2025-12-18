@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1><code>Re: Base</code></h1>
+  <h1><code>Re:Base</code></h1>
 
   <p>
     <strong>Development Studio & Product Lab</strong>
@@ -73,7 +73,7 @@ Nuestro nombre proviene del comando `git rebase`. Creemos en mantener una histor
 
 <h3>Our Team</h3>
 
-<table style="border: none">
+<table style="border: none" cellspacing="0" cellpadding="0">
 <tr style="border: none">
 <td align="center" style="border: none">
 <a href=https://github.com/TheOneAndOnlyJohnny">
