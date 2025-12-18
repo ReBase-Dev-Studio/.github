@@ -73,15 +73,15 @@ Nuestro nombre proviene del comando `git rebase`. Creemos en mantener una histor
 
 <h3>Our Team</h3>
 
-<table style="border: none" cellspacing="0" cellpadding="0" align="center">
-    <tr style="border: none">
-        <td align="center" style="border: none">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+    <tr>
+        <td align="center">
             <a href=https://github.com/TheOneAndOnlyJohnny">
                 <img src="https://github.com/TheOneAndOnlyJohnny.png" width="100px;" alt="" style="border-radius: 50%;"/><br />
                 <sub><b>Johnny</b></sub>
             </a>
         </td>
-        <td align="center" style="border: none">
+        <td align="center">
             <a href="https://github.com/jossvo">
                 <img src="https://github.com/jossvo.png" width="100px;" alt="" style="border-radius: 50%;"/><br />
                 <sub><b>Josue</b></sub>
